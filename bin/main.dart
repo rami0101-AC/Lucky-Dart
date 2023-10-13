@@ -6,8 +6,7 @@
 */
 
 import 'dart:io';
-
-import 'package:hybrid_2/Luck.dart';
+import 'package:hybrid_2/Lucky.dart';
 
 void main(List<String> args) {
   for (var name in args) {
